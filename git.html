@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <title>Git</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <h1>CS Diary</h1>
     <nav>
@@ -15,12 +17,14 @@
     <h2>GIT</h2>
     <i>ptm git, a veces te odio, a veces te amo</i>
     <br>
+    
     <br>
     <h3>BACK TO BASIC</h3>
     <br>
+
     <h4>The basic day to day movement</h4>
     <code>git status</code>
-    <p>Check where you are and how you are. PD. Pls don't be at master</p>
+    <p>Check where you are and how you are.</p>
     <code>git add . | *</code>
     <p>Add everything that you have change into a <i>possible commit</i></p>
     <code>git commit -m "message"</code>
@@ -29,25 +33,53 @@
     </p>
     <code>git push</code>
     <p>For when you are using Github and you want your changes to be in the remote branch</p>
+    <code>
+        fatal: The current branch Git has no upstream branch.
+    </code>
     <br>
+    <code>
+        To push the current branch and set the remote as upstream, use
+    </code>
+    <br>
+    <code>
+        git push --set-upstream origin Git
+    </code>
+    <p>DON'T FREAK OUT! This is just saying that your local branch doesn't have a branch remote to upload the changes.
+        And the cute command that is giving you is to create a branch with that same name as in your local.
+    </p>
+    <br>
+
     <h4>What you should do as soon as you start</h4>
     <code>git clone "url"</code>
     <br>
     <code>git checkout -b "newLocalBranch"</code>
+    <br>
 
-    
+    <h4>Changes in the remote master</h4>
+    <p>
+        Don't make me start
+    </p>
+    <br>
 
+    <br>
     <h3>ADVICES</h3>
     <ul>
         <li>Never add or commit from master</li>
         <li>Write good commit messages (they are going to save you)</li>
     </ul>
+    <br>
+
+    <br>
     <h3>ARTICLES</h3>
     <p>That I have checked to many times. </p>
     <p>PD. Thank you to the writers</p>
     <ul>
-        <li><a href="http://www.codeblocq.com/2016/01/Untrack-files-already-added-to-git-repository-based-on-gitignore/">Untrack files already added to git repository based on gitignore</a></li>
-        <li><a href="https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c">Git rebase vs. Git merge</a></li>
+        <li><a
+                href="http://www.codeblocq.com/2016/01/Untrack-files-already-added-to-git-repository-based-on-gitignore/">Untrack
+                files already added to git repository based on gitignore</a></li>
+        <li><a href="https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c">Git rebase vs. Git
+                merge</a></li>
     </ul>
 </body>
+
 </html>

@@ -20,3 +20,4 @@
 | Redux DevTools | Inspect the state of a store with React Redux (?) |
 | Locale Switcher | Switch the default location of the browser causing the change of the language |
 | Pocket | Handy way of storing links and articles |
+| JSON Formatter | Handy way of formatting JSON responses |

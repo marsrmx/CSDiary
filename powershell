@@ -1,7 +1,0 @@
-# Powershell
-
-## New Item
-
-`New-Item Path . -Name "nombre.js" -ItemType "file"`
-
-https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-item?view=powershell-6

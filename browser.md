@@ -7,7 +7,7 @@
 |`Ctrl + t`| Open a new tab |
 | `Ctrl + w` | Closes the last tab |
 
-> Notes
+#### Notes
 
 `Opera` lets you click `Ctrl + w` as many times as you want with out closing the browser. Handy 👌. 
 

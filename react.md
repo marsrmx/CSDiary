@@ -1,5 +1,11 @@
 # React
 
+## Prop Drilling
+
+https://kentcdodds.com/blog/prop-drilling
+
+https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components
+
 ## REDUX
 
 Presentational components care about how things look and containers about how thinks works and interact with data. Containers are usually parent component for a presentational component.

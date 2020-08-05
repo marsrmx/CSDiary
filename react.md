@@ -1,5 +1,13 @@
 # React
 
+## Controlled vs Uncontrolled form inputs
+
+Controlled - https://reactjs.org/docs/forms.html#controlled-components
+
+Uncontrolled - https://reactjs.org/docs/uncontrolled-components.html
+
+How to decide? - https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/
+
 ## Prop Drilling
 
 https://kentcdodds.com/blog/prop-drilling

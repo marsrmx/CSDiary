@@ -37,3 +37,4 @@ That I have checked to many times.
 * [Git rebase vs Git marge](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c)
 * [Checkout a remote branch](https://www.git-tower.com/learn/git/faq/checkout-remote-branch)
 * [Create .gitignore](http://www.gitignore.io/)
+* [Display a list of git conflicts](https://tomanistor.com/blog/displaying-a-list-of-git-conflicts/)
